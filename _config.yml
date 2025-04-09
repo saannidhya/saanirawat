@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Saani Rawat"
-  avatar           : "prof_square.png"
+  avatar           : "/images/prof_square.png"
   bio              : "PhD Candidate, Lindner College of Business, University of Cincinnati"
   location         : "Cincinnati, Ohio"
   employer         :
